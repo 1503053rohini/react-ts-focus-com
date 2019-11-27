@@ -7,7 +7,6 @@ export default class FocusCom extends Component{
       data: ''
     }
     this.getvalue = this.getvalue.bind(this);
-    
   };
 
 
